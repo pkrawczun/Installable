@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3e66410bec741df86e65.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Installable",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Installable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Installable-Release-bfdeebb662895e40e1db.json",
+					"name" : "Installable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Installable_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Installable_autogen-Release-d4905e96e4a88f89caa9.json",
+					"name" : "Installable_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Installable_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Installable_autogen_timestamp_deps-Release-a5f9c8e113a3b9ab3c12.json",
+					"name" : "Installable_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/krawczun/Installable/Installable/build/Desktop-Release",
+		"source" : "/home/krawczun/Installable/Installable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
