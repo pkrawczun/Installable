@@ -1,11 +1,13 @@
 # Ignore build directories
 build-*/
+build*/
 
 # CMake files
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
+CMakeLists.txt.user
 *.cmake
 
 # Ignore compiled binaries and executables
