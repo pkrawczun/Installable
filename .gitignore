@@ -1,15 +1,23 @@
-# Ignore Qt build directories
+# Ignore build directories
 build-*/
-*.pro.user
-*.pro.user.*
-*.o
-*.obj
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Ignore compiled binaries and executables
+*.exe
+*.dll
 *.so
+*.o
 *.a
 *.lib
-*.dll
-*.exe
-moc_*
-ui_*
-qrc_*
+*.obj
+
+# Ignore Qt Creator specific files
+*.pro.user
+*.pro.user.*
 
