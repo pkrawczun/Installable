@@ -1,9 +1,0 @@
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/Installable.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/edit_cache.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/list_install_components.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/install.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/install/local.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/install/strip.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/Installable_autogen_timestamp_deps.dir
-/home/krawczun/Installable/Installable/build/Desktop-Release/CMakeFiles/Installable_autogen.dir
